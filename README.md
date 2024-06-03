@@ -1,2 +1,2 @@
-# Application-for-inventory-management
-Personal copy of AdamantiumPOS
+# AdamantiumPOS
+Sistema de inventarios
